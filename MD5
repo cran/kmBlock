@@ -1,0 +1,17 @@
+f67028ed825f0399edd5f7b2536e904b *CHANGES
+8aa2b5df88f6f730ede7482ffa4572e9 *DESCRIPTION
+c5fdd8e0d58f00e77f158c8ce427bf19 *NAMESPACE
+748684bf05912824f54ed311b93c569c *R/RcppExports.R
+de19c492421ecd282da311b1d70b846d *R/kmBlock-package.R
+bf9f523a1a9651a6efa5c6da907b6944 *R/kmBlock.r
+afbe4209b3bb961ba3e41cbfe79ea507 *build/partial.rdb
+53271fb665f0f1a3774c5335f2e39197 *inst/CITATION
+53c5cefb3202b234868f53b7b70f2b02 *man/critFunKmeans.Rd
+72d50930a3c826583e60d6fea40a02fd *man/kmBlock-package.Rd
+2086087c2b760d4c4fc95d70e25baa94 *man/kmBlockC.Rd
+6d63c0e5e876a167184ab4364731d4fe *man/kmBlockORPC.Rd
+6bcee6df7622505b45514c7fcc990ff2 *src/Makevars
+6bcee6df7622505b45514c7fcc990ff2 *src/Makevars.win
+a4b0c90c91a7dd8d51cde983810c5445 *src/RcppExports.cpp
+cca28d5330b0a0ac1463ca3313974643 *src/kmBlock_types.h
+50ce0eb2400f27d4f1e70cd242a8f28b *src/main.cpp
